@@ -8,6 +8,7 @@ const app = express();
 
 // enable middleware to parse body of Content-type: application/json
 app.use(express.json());
+app.use(cors());
 
 app.get("/api/users", (req, res) => {
   res.send(users);

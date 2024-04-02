@@ -1,5 +1,6 @@
 [
   { "id": 0, "name": "Giacomo", "surname": "Scampini" },
   { "id": 1, "name": "Tommaso", "surname": "Crociera" },
+  { "id": 2, "name": "Mario", "surname": "Rossi" },
   { "id": 3, "name": "Silvio", "surname": "Berlusconi" }
 ]
